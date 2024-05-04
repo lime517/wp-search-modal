@@ -18,3 +18,7 @@ Download a ZIP of this repository, and install like any other Wordpress Plugin!
 
 1. Install the plugin
 2. Add the `jg-search-modal-trigger` class to any HTML element. 
+
+## Demo Video
+
+![alt text](https://github.com/lime517/wp-search-modal/raw/main/docs/demo_gif.gif "Demo GIF")
