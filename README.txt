@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Search Modal ===
 Requires at least: 5.0
 Tested up to: 6.5.2
 Stable tag: 5.0
