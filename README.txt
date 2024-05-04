@@ -1,16 +1,20 @@
-=== Search Modal ===
-Requires at least: 5.0
-Tested up to: 6.5.2
-Stable tag: 5.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# WP Search Modal
 
-Show a beautifully styled search modal whenever a link with the `.jg-search-modal-trigger` is clicked.
+Show a beautifully styled full-sreen search modal whenever a link with the `.jg-search-modal-trigger` is clicked.
 
-== Description ==
+## Features
+* Fully accessible
+* Prevents background scrolling when modal is open
+* Press `esc` key to exit modal
+* Dynamic mounting & unmounting of modal HMTL
+* Screen-reader friendly
+* Mobile Friendly
 
-Show a beautifully styled search modal whenever a link with the `.jg-search-modal-trigger` is clicked. 
+## Installation
 
-== Installation ==
+Download a ZIP of this repository, and install like any other Wordpress Plugin!
 
-Download a ZIP of the repo, and upload to Wordpress like any other plugin. Updates are automatically distributed from the `main` branch of this repository. 
+## Usage
+
+1. Install the plugin
+2. Add the `jg-search-modal-trigger` class to any HTML element. 
